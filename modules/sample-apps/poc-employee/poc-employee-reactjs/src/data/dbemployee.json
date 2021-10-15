@@ -1,0 +1,92 @@
+{
+  "employee": [
+    {
+      "id": 0,
+      "name": "Xuan Phi",
+      "birthDay": "1998-11-14",
+      "gender": 0,
+      "address": "Thanh Xuan",
+      "hasAccount": true
+    },
+    {
+      "id": 1,
+      "name": "The Anh",
+      "birthDay": "1997-04-04",
+      "gender": 0,
+      "address": "TTO",
+      "hasAccount": true
+    },
+    {
+      "id": 2,
+      "name": "Vi Ninh",
+      "birthDay": "2001-10-06",
+      "gender": 0,
+      "address": "Bac Giang",
+      "hasAccount": true
+    },
+    {
+      "id": 3,
+      "name": "Long",
+      "birthDay": "2000-07-12",
+      "gender": 0,
+      "address": "Thanh Ha",
+      "hasAccount": true
+    },
+    {
+      "id": 4,
+      "name": "Duyen",
+      "birthDay": "1993-12-06",
+      "gender": 1,
+      "address": "Ha Dong",
+      "hasAccount": true
+    },
+    {
+      "id": 5,
+      "name": "Xuan Phi",
+      "birthDay": "1998-11-14",
+      "gender": 0,
+      "address": "Thanh Xuan",
+      "hasAccount": true
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "departmentName": "Tech",
+      "createdId": "2021-10-06"
+    },
+    {
+      "id": 2,
+      "departmentName": "Art",
+      "createdId": "2021-10-06"
+    },
+    {
+      "id": 3,
+      "departmentName": "Accountant",
+      "createdId": "2021-10-06"
+    },
+    {
+      "id": 4,
+      "departmentName": "Maketting",
+      "createdId": "2021-10-06"
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "usename": "anhict",
+      "pass": "theanh"
+    },
+    {
+      "id": 2,
+      "usename": "phidx",
+      "pass": "dxphi"
+    },
+    {
+      "id": 3,
+      "usename": "vvn",
+      "pass": "ninhlv"
+    }
+  ]
+
+}
